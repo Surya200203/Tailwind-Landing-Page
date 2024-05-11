@@ -14,7 +14,7 @@ This project is a simple landing page created using Tailwind CSS, a utility-firs
 
 ## Live Link
 
-
+<a herf="https://surya200203.github.io/Tailwind-Landing-Page/" alt="Landing Page">Landing Page </a>
 
 ## Technologies Used
 
